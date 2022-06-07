@@ -12,4 +12,4 @@ This my first swing project.
 
 ## PHOTOS
 
-![loginscreen](https://https://i.hizliresim.com/95p0rkh.png)
+![loginscreen](https://i.hizliresim.com/95p0rkh.png)
