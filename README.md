@@ -13,3 +13,7 @@ This my first swing project.
 ## PHOTOS
 
 ![loginscreen](https://i.hizliresim.com/95p0rkh.png)
+
+![cards](https://i.hizliresim.com/mdlmz37.png)
+
+![balanceupdate](https://i.hizliresim.com/mu3zd36.png)
